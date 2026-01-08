@@ -1,0 +1,14 @@
+[
+    {
+        "id":1,
+        "title": "Pasca Sarjana",
+        "desc": "Fakultas Pasca Sarjana",
+        "link": "https://pasca.universitasbumigora.ac.id/admin"
+    },
+    {
+        "id":2,
+        "title": "Teknik",
+        "desc": "Fakultas Teknik",
+        "link": "https://pasca.universitasbumigora.ac.id/admin"
+    }
+]
